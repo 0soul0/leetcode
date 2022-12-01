@@ -1,7 +1,7 @@
 package dp;
 
 //1704. Determine if String Halves Are Alike
-public class VowelCheck {
+public class halvesAreAlike1704 {
 
     public static void main(String[] args) {
         System.out.println(halvesAreAlike("book")); // true

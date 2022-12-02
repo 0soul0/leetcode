@@ -16,7 +16,7 @@
         <td>1704. Determine if String Halves Are Alike</td>
     </tr>
     <tr>
-        <td>dp</td>
+        <td>greedy</td>
         <td>1657. Determine if Two Strings Are Close</td>
     </tr>
 </table>

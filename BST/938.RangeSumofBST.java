@@ -1,7 +1,7 @@
 package BST;
 
 // 938. Range Sum of BST
-public class rangeSumofBST938 {
+class RangeSumofBST {
     public static void main(String[] args) {
 
     }

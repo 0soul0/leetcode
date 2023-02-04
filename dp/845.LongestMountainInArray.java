@@ -2,7 +2,7 @@ package dp;
 
 //https://leetcode.com/problems/longest-mountain-in-array/description/
 //845. Longest Mountain in Array
-public class longestMountainInArray845 {
+class LongestMountainInArray {
     public int longestMountain(int[] arr) {
         int res = 0;
         int path = 1;

@@ -5,7 +5,7 @@ import java.util.Arrays;
 // 1626. Best Team With No Conflicts
 // https://leetcode.com/problems/best-team-with-no-conflicts/description/
 // LIS
-public class bestTeamWithNoConflicts1626 {
+class BestTeamWithNoConflicts {
     public int bestTeamScore(int[] scores, int[] ages) {
         final int n = ages.length;
         int[][] ageScorePair = new int[n][2];

@@ -1,7 +1,7 @@
 package dp;
 
 // 70. Climbing Stairs
-public class climbingStairs70 {
+class ClimbingStairs {
 
     public int climbStairs(int n) {
         if (n <= 2)

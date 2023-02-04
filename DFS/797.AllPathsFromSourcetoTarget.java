@@ -5,7 +5,7 @@ import java.util.List;
 
 // 797. All Paths From Source to Target
 // https://leetcode.com/problems/all-paths-from-source-to-target/description/
-public class allPathsFromSourcetoTarget797 {
+class AllPathsFromSourcetoTarget {
 
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
         List<List<Integer>> res = new ArrayList<>();

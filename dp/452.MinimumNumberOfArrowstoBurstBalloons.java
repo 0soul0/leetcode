@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // 452. Minimum Number of Arrows to Burst Balloonsz
 // https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
-public class MinimumNumberOfArrowstoBurstBalloons452 {
+class MinimumNumberOfArrowstoBurstBalloons {
 
     public int findMinArrowShots(int[][] points) {
         if (points.length == 0)

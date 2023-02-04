@@ -2,7 +2,7 @@ package dp;
 
 // 953. Verifying an Alien Dictionary
 // https://leetcode.com/problems/verifying-an-alien-dictionary/description/
-public class VerifyingAnAlienDictionary953 {
+class VerifyingAnAlienDictionary {
     public boolean isAlienSorted(String[] words, String order) {
         if (words.length == 1)
             return true;

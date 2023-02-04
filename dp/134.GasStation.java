@@ -1,6 +1,6 @@
 package dp;
 
-public class gasStation134 {
+class GasStation {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int ans = 0;
         int curr = 0;

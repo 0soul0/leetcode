@@ -5,7 +5,7 @@ import java.util.List;
 
 // https://leetcode.com/problems/find-if-path-exists-in-graph/
 // 1971. Find if Path Exists in Graph
-public class findifPathExistsinGraph1971 {
+class findifPathExistsinGraph {
     public static void main(String[] args) {
 
     }

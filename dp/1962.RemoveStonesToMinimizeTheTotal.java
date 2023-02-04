@@ -1,7 +1,7 @@
 package dp;
 
 // 1962. Remove Stones to Minimize the Total
-public class removeStonesToMinimizeTheTotal1962 {
+class RemoveStonesToMinimizeTheTotal {
 
     public int minStoneSum(int[] piles, int k) {
         int sum = 0;

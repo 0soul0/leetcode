@@ -2,7 +2,7 @@ package dp;
 
 // 6. Zigzag Conversion
 //https://leetcode.com/problems/zigzag-conversion/description/
-public class zigzagConversion6 {
+class zigzagConversion {
     public String convert(String s, int numRows) {
 
         String[] temp = new String[numRows];

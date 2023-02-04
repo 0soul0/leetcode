@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //1833. Maximum Ice Cream Bars
 //https://leetcode.com/problems/maximum-ice-cream-bars/description/
-public class MaximumIceCreamBars1833 {
+class MaximumIceCreamBars {
     public int maxIceCream(int[] costs, int coins) {
         int maxCost = 0;
 

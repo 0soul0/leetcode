@@ -4,7 +4,7 @@ import java.util.List;
 
 //1443. Minimum Time to Collect All Apples in a Tree
 //https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/
-public class minimumTimeToCollectAllApplesInATree {
+class MinimumTimeToCollectAllApplesInATree {
 
     public int minTime(int n, int[][] edges, List<Boolean> hasApple) {
         int[] pathCount = new int[n];

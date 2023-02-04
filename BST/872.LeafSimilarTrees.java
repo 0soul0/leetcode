@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // 872. Leaf-Similar Trees
-public class leafSimilarTrees872 {
+class LeafSimilarTrees {
     public static void main(String[] args) {
 
     }

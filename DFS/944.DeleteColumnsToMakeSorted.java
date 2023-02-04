@@ -2,7 +2,7 @@ package DFS;
 
 // 944. Delete Columns to Make Sorted
 // https://leetcode.com/problems/delete-columns-to-make-sorted/description/
-public class deleteColumnsToMakeSorted944 {
+class DeleteColumnsToMakeSorted {
     public int minDeletionSize(String[] strs) {
         int count = 0;
         for (int i = 0; i < strs[0].length(); i++) {

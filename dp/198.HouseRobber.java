@@ -2,7 +2,7 @@ package dp;
 
 // 198. House Robber
 // https://leetcode.com/problems/house-robber/description/
-public class houseRobber198 {
+class HouseRobber {
     public static void main(String[] args) {
 
     }

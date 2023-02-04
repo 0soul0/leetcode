@@ -1,7 +1,7 @@
 package dp;
 
 // 746. Min Cost Climbing Stairs
-public class minCostClimbingStairs746 {
+class minCostClimbingStairs {
 
     public int minCostClimbingStairs(int[] cost) {
         int[] dp = new int[cost.length];

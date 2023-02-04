@@ -2,7 +2,7 @@ package dp;
 
 //https://leetcode.com/problems/flip-string-to-monotone-increasing/description/
 //926. Flip String to Monotone Increasing
-public class FlipStringToMonotoneIncreasing926 {
+class FlipStringToMonotoneIncreasing {
     public int minFlipsMonoIncr(String s) {
         int zeroCount = 0;
         int oneCount = 0;
